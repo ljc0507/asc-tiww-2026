@@ -1,0 +1,91 @@
+[
+  {
+    "id": "tefpass-membrane-module",
+    "category": "rd",
+    "featured": false,
+    "image": "assets/products/tefpass-membrane-module-6inch.jpg",
+    "images": [
+      "assets/products/tefpass-membrane-module-6inch.jpg",
+      "assets/products/tefpass-membrane-module-series.png"
+    ],
+    "name": { "zh": "TEFPASS® Membrane Module 膜接觸器", "en": "TEFPASS® Membrane Module" },
+    "summary": {
+      "zh": "TEFPASS® Membrane Module 膜接觸器是使用上品獨特延伸技術所生產的一系列超高純度 Teflon 流體處理裝置，具備出色的耐化學性與耐熱性，並可在廢水處理、酸液提濃等應用中提供高流體通過量。其高接合性 Teflon 模塊可使用高達 98°C 的熱水消毒，以消除細菌生長並防止結垢；回收再生技術適合所有需要高處理量與高潔淨水平的應用。",
+      "en": "TEFPASS® Membrane Module is a series of ultra-high-purity Teflon fluid-processing devices produced with Allied Supreme's proprietary stretching technology. It offers excellent chemical and heat resistance with high fluid throughput for wastewater treatment and acid concentration. Its highly integrated Teflon module supports hot-water sanitization up to 98°C to inhibit bacterial growth and prevent scaling, making the recovery and regeneration technology ideal for high-throughput, high-cleanliness applications."
+    },
+    "highlights": {
+      "zh": ["超高純度 Teflon 流體處理裝置", "最高 98°C 熱水消毒", "適用高處理量與高潔淨應用"],
+      "en": ["Ultra-high-purity Teflon fluid processing", "Hot-water sanitization up to 98°C", "For high-throughput, high-cleanliness applications"]
+    },
+    "specs": { "zh": "產品規格待補。", "en": "Product specifications pending." },
+    "application": { "zh": "廢水處理、酸液提濃、流體回收與再生。", "en": "Wastewater treatment, acid concentration, and fluid recovery and regeneration." }
+  },
+  {
+    "id": "tefpass-replaceable-membrane-distillation-module",
+    "category": "rd",
+    "featured": false,
+    "image": "assets/products/tefpass-membrane-distillation-module.jpg",
+    "name": { "zh": "TEFPASS® Membrane 薄膜蒸餾模組", "en": "TEFPASS® Membrane Replaceable Membrane Distillation Module" },
+    "summary": {
+      "zh": "TEFPASS® Replaceable Membrane Distillation Module 是上品設計研發的一系列薄膜蒸餾模組，使用上品生產的 TEFPASS® Membrane 作為交換膜，液體流通路徑皆採耐酸鹼材質，具備簡易組裝、耐化學性、耐熱性及高通量等特性。堆疊式結構可實現模組快速組裝及更換，大幅降低維修時間與成本。",
+      "en": "TEFPASS® Replaceable Membrane Distillation Module is a series of membrane distillation modules developed by Allied Supreme using TEFPASS® Membrane as the exchange medium. All liquid flow paths use acid- and alkali-resistant materials, providing easy assembly, chemical resistance, heat resistance, and high throughput. Its stackable structure enables rapid module assembly and replacement, significantly reducing maintenance time and cost."
+    },
+    "highlights": {
+      "zh": ["TEFPASS® Membrane 交換膜", "全耐酸鹼流體路徑", "堆疊式快速組裝與更換"],
+      "en": ["TEFPASS® Membrane exchange medium", "Acid- and alkali-resistant flow path", "Stackable design for rapid assembly and replacement"]
+    },
+    "specs": { "zh": "產品規格待補。", "en": "Product specifications pending." },
+    "application": { "zh": "薄膜蒸餾、耐化學流體處理與高通量製程。", "en": "Membrane distillation, chemical-resistant fluid processing, and high-throughput processes." }
+  },
+  {
+    "id": "tefpass-hydrophobic-membrane",
+    "category": "rd",
+    "featured": false,
+    "image": "assets/products/tefpass-hydrophobic-membrane.jpg",
+    "name": { "zh": "TEFPASS® Hydrophobic Membrane 疏水純膜", "en": "TEFPASS® Hydrophobic Membrane" },
+    "summary": {
+      "zh": "採用獨特延伸技術製程，生產高純度 PTFE（聚四氟乙烯）微孔膜，具備優異的耐化學性、耐熱性及疏水特性。特殊微孔結構可有效截留微小顆粒，同時維持高流體通量，適用於對高潔淨度、耐化學性及過濾效率具有高要求的應用環境。",
+      "en": "Produced from high-purity PTFE microporous membrane using a proprietary stretching process, TEFPASS® Hydrophobic Membrane provides excellent chemical resistance, heat resistance, and hydrophobicity. Its specialized microporous structure effectively retains fine particles while maintaining high fluid throughput for applications demanding exceptional cleanliness, chemical resistance, and filtration efficiency."
+    },
+    "highlights": {
+      "zh": ["高純度 PTFE 微孔膜", "優異耐化學、耐熱與疏水性", "微粒截留與高流體通量"],
+      "en": ["High-purity PTFE microporous membrane", "Chemical, heat, and hydrophobic performance", "Fine-particle retention with high throughput"]
+    },
+    "specs": { "zh": "產品規格待補。", "en": "Product specifications pending." },
+    "application": { "zh": "高潔淨過濾、耐化學製程與精密流體處理。", "en": "High-cleanliness filtration, chemical-resistant processes, and precision fluid handling." }
+  },
+  {
+    "id": "tefpass-hydrophobic-composite-membrane",
+    "category": "rd",
+    "featured": false,
+    "image": "assets/products/tefpass-hydrophobic-composite-membrane.jpg",
+    "name": { "zh": "TEFPASS® Hydrophobic Membrane 疏水複合膜", "en": "TEFPASS® Hydrophobic Composite Membrane" },
+    "summary": {
+      "zh": "PTFE 疏水複合膜採用高性能 PTFE 微孔膜與支撐材料複合製成，兼具優異的耐化學性、耐熱性及高度疏水特性。特殊微孔結構可有效阻隔液態水及微小顆粒，同時維持良好的氣體通透性與高流體通量，適用於各種高潔淨度及嚴苛製程環境。",
+      "en": "TEFPASS® Hydrophobic Composite Membrane combines a high-performance PTFE microporous membrane with a supporting material to deliver excellent chemical resistance, heat resistance, and strong hydrophobicity. Its specialized microporous structure blocks liquid water and fine particles while maintaining good gas permeability and high fluid throughput for clean and demanding process environments."
+    },
+    "highlights": {
+      "zh": ["PTFE 微孔膜與支撐材料複合", "阻隔液態水與微小顆粒", "良好氣體通透性與高通量"],
+      "en": ["PTFE microporous membrane composite", "Blocks liquid water and fine particles", "Good gas permeability and high throughput"]
+    },
+    "specs": { "zh": "產品規格待補。", "en": "Product specifications pending." },
+    "application": { "zh": "氣液分離、高潔淨過濾及嚴苛製程環境。", "en": "Gas-liquid separation, high-cleanliness filtration, and demanding process environments." }
+  },
+  {
+    "id": "tefpass-hydrophilic-composite-membrane",
+    "category": "rd",
+    "featured": false,
+    "image": "assets/products/tefpass-hydrophilic-composite-membrane.jpg",
+    "name": { "zh": "TEFPASS® Hydrophilic Composite Membrane 親水複合膜", "en": "TEFPASS® Hydrophilic Composite Membrane" },
+    "summary": {
+      "zh": "PTFE 親水複合膜採用高性能 PTFE 微孔膜與特殊親水材料複合製成，兼具 PTFE 優異的耐化學性與耐熱性。經特殊親水化處理後，膜材可有效提升水性液體的潤濕與通過能力，同時維持良好的微粒截留效率與流體通量，適用於各種高潔淨度及嚴苛製程環境。",
+      "en": "TEFPASS® Hydrophilic Composite Membrane combines a high-performance PTFE microporous membrane with a specialized hydrophilic material, retaining PTFE's excellent chemical and heat resistance. A dedicated hydrophilic treatment improves wetting and transmission of aqueous liquids while maintaining strong particle-retention efficiency and fluid throughput for clean and demanding process environments."
+    },
+    "highlights": {
+      "zh": ["PTFE 微孔膜與親水材料複合", "提升水性液體潤濕與通過能力", "兼具微粒截留效率與流體通量"],
+      "en": ["PTFE membrane with hydrophilic composite", "Improved wetting and aqueous-liquid transfer", "Particle retention with strong fluid throughput"]
+    },
+    "specs": { "zh": "產品規格待補。", "en": "Product specifications pending." },
+    "application": { "zh": "水性液體過濾、高潔淨流體處理及嚴苛製程環境。", "en": "Aqueous-liquid filtration, high-cleanliness fluid handling, and demanding process environments." }
+  }
+]
