@@ -533,7 +533,7 @@ const onsiteSessions = [
 const fallbackMembraneProducts = [
   {
     id: "tefpass-membrane-module", category: "rd", featured: false, image: "assets/products/tefpass-membrane-module-6inch.jpg",
-    images: ["assets/products/tefpass-membrane-module-6inch.jpg", "assets/products/tefpass-membrane-module-series.png"],
+    images: ["assets/products/tefpass-membrane-module-6inch.jpg", "assets/products/tefpass-membrane-module-series.jpg"],
     name: { zh: "TEFPASS® Membrane Module 膜接觸器", en: "TEFPASS® Membrane Module" },
     summary: {
       zh: "TEFPASS® Membrane Module 膜接觸器是使用上品獨特延伸技術所生產的一系列超高純度 Teflon 流體處理裝置，具備出色的耐化學性與耐熱性，並可在廢水處理、酸液提濃等應用中提供高流體通過量。其高接合性 Teflon 模塊可使用高達 98°C 的熱水消毒，以消除細菌生長並防止結垢；回收再生技術適合所有需要高處理量與高潔淨水平的應用。",
